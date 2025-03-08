@@ -18,6 +18,12 @@
       "approved": true,
       "created_at": "2025-03-08T08:49:21.495000",
       "updated_at": "2025-03-08T10:16:34.717785"
+    },
+    "Skibidi speed hub": {
+      "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
+      "approved": false,
+      "show_jdndjs": false,
+      "created_at": "2025-03-08T17:30:56.250068"
     }
   }
 }
