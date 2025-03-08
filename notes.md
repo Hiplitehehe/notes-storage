@@ -25,6 +25,12 @@
       "approved": false,
       "show_jdndjs": false,
       "created_at": "2025-03-08T17:30:56.250068"
+    },
+    "Pollo incremental script": {
+      "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/de-ishi/scripts/refs/heads/main/PoolIncremental%20obf.lua\"))()![1000132948.jpg](https://raw.githubusercontent.com/Hiplitehehe/notes-storage/main/public/images/20250308_173127_1000132948.jpg)\n\n## Additional Information\n\nUhm idk i didnt made this sorry :(",
+      "approved": false,
+      "show_jdndjs": false,
+      "created_at": "2025-03-08T17:31:31.668660"
     }
   }
 }
