@@ -27,10 +27,11 @@
       "created_at": "2025-03-08T17:30:56.250068"
     },
     "Pollo incremental script": {
-      "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/de-ishi/scripts/refs/heads/main/PoolIncremental%20obf.lua\"))()![1000132948.jpg](https://raw.githubusercontent.com/Hiplitehehe/notes-storage/main/public/images/20250308_173127_1000132948.jpg)\n\n## Additional Information\n\nUhm idk i didnt made this sorry :(",
+      "content": "# Pool incremental script\r\n\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/de-\r\nishi/scripts/refs/heads/main/PoolIncremental%20obf.lua\"))()![1000132948.jpg](https://raw.githubusercontent.com/Hiplitehehe/notes-storage/main/public/images/20250308_173127_1000132948.jpg)\n\n## Additional Information\n\nUhm idk i didnt made this sorry :(\r\n# FEATURES\r\n- Auto Collect\r\n- Auto Buy Upgrades\r\n- Auto Rebirth",
       "approved": true,
       "show_jdndjs": false,
-      "created_at": "2025-03-08T17:31:31.668660"
+      "created_at": "2025-03-08T17:31:31.668660",
+      "updated_at": "2025-03-08T17:41:59.256845"
     },
     "Speed hub": {
       "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
