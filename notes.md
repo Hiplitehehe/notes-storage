@@ -31,7 +31,7 @@
       "approved": true,
       "show_jdndjs": false,
       "created_at": "2025-03-08T17:31:31.668660",
-      "updated_at": "2025-03-08T17:41:59.256845"
+      "updated_at": "2025-03-08T17:42:00.821308"
     },
     "Speed hub": {
       "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
