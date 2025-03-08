@@ -1,6 +1,6 @@
 {
   "notes": {
-    "Welcome": "![Gemini_Generated_Image_kcvox0kcvox0kcvo.jpeg](https://raw.githubusercontent.com/Hiplitehehe/notes-storage/main/images/20250308_063859_Gemini_Generated_Image_kcvox0kcvox0kcvo.jpeg?token=BK6AJYTE7QFIXYY574TZGHTHZPTEA)Hvh",
+    "Welcome": "# Adopt Me!\r\nGame ID: 920587237\r\n\r\n![Game Thumbnail](https://tr.rbxcdn.com/180DAY-cf8b5ae765a92749e150224f45731588/420/420/Image/Png/noFilter)\r\n\r\n## About\r\n* \ud83c\udfae Universe ID: 383310974\r\n\r\n## Additional Information\r\n[Add your game description, features, and instructions here]\r\n\r\n[Play Now](https://www.roblox.com/games/920587237)",
     "Jsjsj": "Smksms",
     "Eheh": "Hshsh"
   }
