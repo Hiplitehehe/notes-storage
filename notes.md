@@ -11,7 +11,7 @@
       "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
       "approved": false,
       "created_at": "2025-03-08T17:29:23.081525",
-      "updated_at": "2025-03-08T17:29:26.757526"
+      "updated_at": "2025-03-08T17:29:30.536995"
     },
     "Eheh": "Hshsh",
     "Bzjzn": {
