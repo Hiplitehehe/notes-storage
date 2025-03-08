@@ -34,11 +34,11 @@
       "updated_at": "2025-03-08T17:42:00.821308"
     },
     "Speed hub": {
-      "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
+      "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()\n\n## Additional Information\n\nWorks in blox fruit and other games",
       "approved": true,
       "show_jdndjs": false,
       "created_at": "2025-03-08T17:32:07.621012",
-      "updated_at": "2025-03-08T17:45:56.293448"
+      "updated_at": "2025-03-08T17:48:19.591485"
     },
     "RAHHHHH": {
       "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()\n\n## Additional Information\n\nHere you go pookie",
