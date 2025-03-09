@@ -71,6 +71,12 @@
       "approved": false,
       "show_jdndjs": false,
       "created_at": "2025-03-09T09:38:02.624915"
+    },
+    "Fisch script ": {
+      "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nivex123456/main/refs/heads/main/Loader.lua\"))()\n\n## Additional Information\n\n#Features\r\n-Auto fish\r\n-Auto sell\r\n-Auto Farm",
+      "approved": false,
+      "show_jdndjs": false,
+      "created_at": "2025-03-09T10:44:42.227198"
     }
   }
 }
