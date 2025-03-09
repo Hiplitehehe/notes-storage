@@ -65,6 +65,12 @@
       "show_jdndjs": false,
       "created_at": "2025-03-08T19:06:52.545764",
       "owner_id": null
+    },
+    "Fisch script": {
+      "content": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nivex123456/main/refs/heads/main/Loader.lua\"))()",
+      "approved": false,
+      "show_jdndjs": false,
+      "created_at": "2025-03-09T09:38:02.624915"
     }
   }
 }
