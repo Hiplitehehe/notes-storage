@@ -17,6 +17,15 @@
       "avatar_url": "https://www.gravatar.com/avatar/?d=mp",
       "is_admin": false,
       "password_hash": "scrypt:32768:8:1$plgkUqRDeePgerSV$9d2d74f04bfa44c6e0bcac7ed701fa4463db256829ebfca463c0ac8ea1dfc62a56c6e290942a1d1f15b0176cbc3acd6588f76364b6474bf609a480ad09748cdf"
+    },
+    "725069": {
+      "id": 725069,
+      "github_id": 725069,
+      "username": "adminnbnndndnd",
+      "email": "Nbnbjndndndvjghv@hchv.hh",
+      "avatar_url": "https://www.gravatar.com/avatar/?d=mp",
+      "is_admin": false,
+      "password_hash": "scrypt:32768:8:1$FAegCMzK8grGtRVI$e7ecd8c414e26ac1b1e582aca2ccb9807d77508982fbbd676c832daa6295d9295ab679b571a02fde3e84655e742ff3a3ee32968155fc40a36e5841d4bebb5fee"
     }
   }
 }
