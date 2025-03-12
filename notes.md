@@ -112,6 +112,13 @@
       "show_jdndjs": false,
       "created_at": "2025-03-11T01:17:14.139368",
       "owner_id": "878750"
+    },
+    "Ghost hub UwU~": {
+      "content": "# Ghost hub UwU~\n\nloadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()\n\n## Additional Information\n\nFrom the screen\ud83d\udcfato the ring\ud83c\udfdf\ufe0fTo the pend\ud83d\udd79\ufe0fto the king\ud83d\udc51Where's my crown? That's my bling\ud83e\udd2balways drama when i ring\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+      "approved": false,
+      "show_jdndjs": false,
+      "created_at": "2025-03-12T12:53:57.469349",
+      "owner_id": "202960224"
     }
   }
 }
