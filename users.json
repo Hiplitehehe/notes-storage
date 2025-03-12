@@ -17,6 +17,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/180094178?v=4",
       "is_admin": true,
       "password_hash": null
+    },
+    "202960224": {
+      "id": 202960224,
+      "github_id": 202960224,
+      "username": "RATAR103",
+      "email": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202960224?v=4",
+      "is_admin": false,
+      "password_hash": null
     }
   }
 }
