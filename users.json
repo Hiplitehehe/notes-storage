@@ -8,6 +8,15 @@
       "avatar_url": "https://www.gravatar.com/avatar/?d=mp",
       "is_admin": false,
       "password_hash": "scrypt:32768:8:1$T3jjbAwQoqtvR1Da$e2b31f60b0348ae1868297d42b2c7be4f1104cb26cf1c800817452ddef72d98c19976eadcb343a5d757e604be72390b837e7573272cdec4797039fe98d42ca66"
+    },
+    "180094178": {
+      "id": 180094178,
+      "github_id": 180094178,
+      "username": "Hiplitehehe",
+      "email": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/180094178?v=4",
+      "is_admin": true,
+      "password_hash": null
     }
   }
 }
